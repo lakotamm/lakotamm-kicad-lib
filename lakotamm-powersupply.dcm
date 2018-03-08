@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS709
+D 150mA 30V Ultra-Low-Iq Wide-Input Low-Dropout (LDO) Regulator With Reverse Current Protection
+K Low-Dropout LDO Regulator
+$ENDCMP
+#
+#End Doc Library
