@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TPS61236P
+D 8-A Valley Current Synchronous Boost Converters with Constant Current
+K Boost power supply
+F http://www.ti.com/lit/ds/symlink/tps61236p.pdf
+$ENDCMP
+#
 $CMP TPS709
 D 150mA 30V Ultra-Low-Iq Wide-Input Low-Dropout (LDO) Regulator With Reverse Current Protection
 K Low-Dropout LDO Regulator
