@@ -6,10 +6,4 @@ K N-Channel FET Transistor Low Voltage
 F http://www.ti.com/product/CSD13380F3
 $ENDCMP
 #
-$CMP CSD13385F5
-D 12V N-Channel FemtoFET™ MOSFET
-K N-Channel FET Transistor Low Voltage
-F http://www.ti.com/lit/ds/symlink/csd13385f5.pdf
-$ENDCMP
-#
 #End Doc Library
