@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM5122
+D Boost converter
+K boost
+F http://www.ti.com/lit/ds/snvs954h/snvs954h.pdf
+$ENDCMP
+#
 $CMP TPS61236P
 D 8-A Valley Current Synchronous Boost Converters with Constant Current
 K Boost power supply
